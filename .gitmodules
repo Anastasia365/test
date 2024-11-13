@@ -1,0 +1,3 @@
+[submodule "lib_submodule"]
+	path = lib_submodule
+	url = https://github.com/Anastasia365/submodule.git
